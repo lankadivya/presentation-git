@@ -1,9 +1,9 @@
 git command - git init
 
 1. git status
-
 2. git add . / git add "file name"
-r
 3.git changes are added by hema
-
 4. best employee of Capgemini - Hema
+3. git clone url
+3. git changes are added by hema
+4. git changes done by ratna
